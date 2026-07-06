@@ -1,0 +1,12 @@
+weights/
+__pycache__/
+*.pth
+*.pyc
+.env
+data/
+*.zip
+outputs/benchmarks/full_results.csv
+outputs/benchmarks/leaderboard.csv
+siim-isic-melanoma-classification/
+.gradio/
+.claude/settings.local.json
