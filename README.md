@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29697212/README.md)
 # DermaSalient v2 — Advanced Medical Saliency Detection System
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue.svg)](https://python.org)
